@@ -81,7 +81,7 @@
 ### Slides
 
 #### Slide 1
-![page_001](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_001_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_001](images/page_001_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > It's an honor to be presenting the first meeting for CAMDA and I wish all the success. For all of you who have been working in this space and know that it was revolutionized, basically.
@@ -102,7 +102,7 @@ future opportunities.
 </details>
 
 #### Slide 2
-![page_002](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_002_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_002](images/page_002_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > My talk will be structured in a way that's to help us. First, we'll sort of take an executive summary to go over. We will set the stage for today's presentation and then we will dive into the regulatory landscape in this period from 2020 to 2025.
@@ -119,7 +119,7 @@ And it impacts on different stakeholders, after which we are going to finally cl
 </details>
 
 #### Slide 3
-![page_003](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_003_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_003](images/page_003_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > So in the past five years, like we said, there was like a huge change. And I would say there are some major forces. Today I will discuss these four. Starting with the COVID-19 emergency use and emergency response, the digital evolution and technology evolution.
@@ -134,7 +134,7 @@ The LDT regulatory oversight shifts the impact of global markets, which collecti
 </details>
 
 #### Slide 4
-![page_004](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_004_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_004](images/page_004_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > I will start by just sharing the numbers, because truly the numbers in this case, they tell the story. There is a record-breaking EUA submissions between March 2020 to May 2023. The number of EUA submissions was more than all EUA submissions from all previous emergencies combined.
@@ -177,7 +177,7 @@ This shift, or policy shift, did not last long, because in April of 2025, the fe
 </details>
 
 #### Slide 5
-![page_005](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_005_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_005](images/page_005_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > That's the uncertainty. And this, what you see here, is the implementation timeline. So a four-year phase-out. First year will be MDR and COBRA requirements. And then registration and listing, and then the full quality system, the pre-market review for only the high-risk devices followed by pre-market review.
@@ -200,7 +200,7 @@ So the best thing to do is use this time to prepare for the implementation.
 </details>
 
 #### Slide 6
-![page_006](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_006_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_006](images/page_006_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > Another big player is the technology evolution in drugs and the market evolution. First of all, the molecular diagnostic, the advances in the molecular diagnostic method over the time, particularly as sparked by COVID.
@@ -235,7 +235,7 @@ Check it out.
 </details>
 
 #### Slide 7
-![page_007](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_007_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_007](images/page_007_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > I'm going to focus on the EU and the situation of the IVD. The US IVD market is the biggest market, but it is not a stand-alone market. It cannot exist in a vacuum anymore. Most of the manufacturers have products in the U.S. and outside the U.S.
@@ -270,7 +270,7 @@ You can predict what the priorities will be based on what's happening in the mar
 </details>
 
 #### Slide 8
-![page_008](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_008_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_008](images/page_008_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > For the period of 2022 to 2025, FDA did put out strategic priorities. Promoting a modern and diverse workforce. Enhancing organizational agility and resilience, and advancing health equity.
@@ -283,7 +283,7 @@ So some things will go and some things will stay, but if you think about what...
 </details>
 
 #### Slide 9
-![page_009](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_009_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_009](images/page_009_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > From an in vitro diagnostic perspective, what's there to stay? Device reclassification program will continue. Third party program is growing. Guidance modernization is in the best interest of companies as well.
@@ -324,7 +324,7 @@ Because the market expansion is expected, because these are already seasoned pla
 </details>
 
 #### Slide 10
-![page_010](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_010_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_010](images/page_010_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > Clinical labs face compliance costs estimated between $100 million, with 40-60% requiring significant quality system upgrades. FDA anticipates 3,000-5,000 new LDT submissions, creating burden on both labs and the agency.
@@ -345,7 +345,7 @@ It has been edited to include proper punctuation. It has been edited to include 
 </details>
 
 #### Slide 11
-![page_011](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_011_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_011](images/page_011_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > In the short term, we're waiting to see what happens with the LDT. In the long term, evolution towards sophisticated risk-based approaches. Greater emphasis on AI/ML, cybersecurity, and transparency.
@@ -374,7 +374,7 @@ So now the FDA works with more advanced pre-submission strategies, there's ongoi
 </details>
 
 #### Slide 12
-![page_012](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_012_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
+![page_012](images/page_012_3._Trends_in_US_Regulation_of_IVDS_2020_to_2025_HS_ELMUBARAK_102325.jpg)
 
 **요약**
 > This is my last slide. Thank you all for your attention. We will be distributing flyers. Please reach out. We'll be happy to be part of your journeys in IVD development.
@@ -658,7 +658,7 @@ Okay, thank you for your time.
 ### Slides
 
 #### Slide 1
-![page_001](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_001_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_001](images/page_001_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 네, 안녕하십니까. 나노다이테일 장병식입니다. FDA 성공 전략에 대해서 발표 드리겠습니다.
@@ -671,7 +671,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 2
-![page_002](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_002_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_002](images/page_002_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 저희 회사는 2002년도에 뉴저지에서 설립되었구요. 현재 계속해서 진단 제품을 개발하고 생산 판매를 하고 있습니다.
@@ -684,7 +684,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 3
-![page_003](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_003_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_003](images/page_003_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 제가 오늘 이 자리에 서게 된 이유가 작년 2월부터 한 1년 반 정도 걸쳐서 3개의 제품을 FDA 승인 받았습니다.
@@ -699,7 +699,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 4
-![page_004](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_004_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_004](images/page_004_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 저도 어떤 FDA 성공 전략에 대해서 정확하게 답이 없습니다. 특별한 비법보다는 기초적이지만 자주 간과되는 중요 사항들에 초점을 맞추겠습니다.
@@ -718,7 +718,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 5
-![page_005](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_005_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_005](images/page_005_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 저희 제품은 래피드 제품이어서 기존 승인된 제품과 비교하게 되어있습니다. FDA 정식 승인된 제품을 첫번째로 선정하셔야 합니다.
@@ -733,7 +733,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 6
-![page_006](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_006_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_006](images/page_006_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 미국은 주정부하고 연방정부 차이가 심합니다. 뉴욕 헬스킷 승인은 뉴욕 주 내에서만 사용 가능합니다.
@@ -750,7 +750,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 7
-![page_007](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_007_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_007](images/page_007_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 한국에서 진출하실 때 클리어 랩을 통해 많이 진출하시는 것 같아요. 큰 기관이라도 FDA 승인 여부 반드시 확인하세요.
@@ -767,7 +767,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 8
-![page_008](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_008_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_008](images/page_008_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 여러 사이트에서 사용한 PCR 방법이 다르면 동등성을 입증해야 합니다. 가능하시면 1개의 임상시험에는 1개의 비교 제품을 사용하시기 바랍니다.
@@ -784,7 +784,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 9
-![page_009](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_009_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_009](images/page_009_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 같은 환자가 반복해서 샘플을 제공하면 반복된 샘플이 되어 결과가 왜곡될 수 있습니다.
@@ -803,7 +803,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 10
-![page_010](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_010_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_010](images/page_010_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 미국은 땅이 크기 때문에 3개 지역 이상에서 샘플을 모아야 합니다. 동서남북 중부 중 3개를 선택하시는 게 좋습니다.
@@ -822,7 +822,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 11
-![page_011](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_011_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_011](images/page_011_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 연령대가 목표 질병에 맞아야 합니다. 소아 RSV는 10세 미만 아이에 대한 비율이 적합해야 합니다.
@@ -837,7 +837,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 12
-![page_012](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_012_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_012](images/page_012_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 성별 비율도 목적에 맞게 맞추셔야 합니다.
@@ -852,7 +852,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 13
-![page_013](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_013_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_013](images/page_013_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 히스패닉 인구가 늘어나고 있어서 인종 간의 밸런스도 맞춰야 합니다.
@@ -871,7 +871,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 14
-![page_014](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_014_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_014](images/page_014_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 가장 쉽고 확실한 방법은 eSTAR나 pre-eSTAR를 사용하는 것입니다. FDA 요구사항이 템플릿에 다 들어있습니다.
@@ -890,7 +890,7 @@ Okay, thank you for your time.
 </details>
 
 #### Slide 15
-![page_015](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_015_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
+![page_015](images/page_015_4._FDA_Approval_Strategies_and_Success_Cases(JBC).jpg)
 
 **요약**
 > 특별한 비법보다는 실수를 방지하는 것이 중요합니다. 미국을 대표할 수 있는 임상 데이터가 승인의 핵심입니다.
@@ -1064,11 +1064,11 @@ Okay, thank you for your time.
 ### Slides
 
 #### Slide 1-3
-![page_001](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_001_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_001](images/page_001_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_002](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_002_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_002](images/page_002_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_003](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_003_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_003](images/page_003_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
 **요약**
 > 오늘 커버할 건 첫번째 왜 미국 마켓인가, FDA가 의료기기를 바라보는 관점이 무엇인가, 그걸 충족하기 위해서 뭘 해야 되느냐입니다.
@@ -1095,11 +1095,11 @@ FDA가 우리 의료기구를 바라보는 관점이 뭡니까?
 </details>
 
 #### Slide 4-6
-![page_004](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_004_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_004](images/page_004_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_005](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_005_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_005](images/page_005_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_006](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_006_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_006](images/page_006_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
 **요약**
 > 글로벌 마켓은 한 5백 빌리언 정도 되는데 미국이 40-45%를 차지합니다. 미국은 가장 큰 싱글 마켓입니다. FDA를 통과하면 전세계 바이어들이 싱글 액세스로 볼 수 있습니다.
@@ -1122,17 +1122,17 @@ FDA가 우리 의료기구를 바라보는 관점이 뭡니까?
 </details>
 
 #### Slide 7-12
-![page_007](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_007_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_007](images/page_007_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_008](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_008_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_008](images/page_008_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_009](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_009_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_009](images/page_009_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_010](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_010_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_010](images/page_010_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_011](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_011_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_011](images/page_011_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_012](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_012_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_012](images/page_012_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
 **요약**
 > 커머셜라이제이션을 위해서는 Technology & Innovation이 기본이고, 두 가지 필러가 있습니다: Manufacturing(Quality)과 Regulation(Compliance). 문서화가 없으면 그 일은 안 일어난 겁니다.
@@ -1185,21 +1185,21 @@ FDA가 우리 의료기구를 바라보는 관점이 뭡니까?
 </details>
 
 #### Slide 13-20
-![page_013](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_013_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_013](images/page_013_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_014](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_014_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_014](images/page_014_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_015](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_015_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_015](images/page_015_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_016](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_016_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_016](images/page_016_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_017](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_017_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_017](images/page_017_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_018](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_018_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_018](images/page_018_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_019](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_019_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_019](images/page_019_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_020](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_020_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_020](images/page_020_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
 **요약**
 > Pre-submission이 정말 정말 중요합니다. 굉장히 파워풀하고 인상적인 방법입니다. Gap Analysis를 통해 회사 문서와 FDA 요구 문서 간의 간격을 봐야 합니다.
@@ -1238,27 +1238,27 @@ FD에서 얘기하는 것은 리서치가 중간에 가고 디벨롭이 시작�
 </details>
 
 #### Slide 21-31
-![page_021](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_021_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_021](images/page_021_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_022](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_022_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_022](images/page_022_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_023](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_023_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_023](images/page_023_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_024](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_024_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_024](images/page_024_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_025](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_025_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_025](images/page_025_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_026](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_026_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_026](images/page_026_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_027](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_027_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_027](images/page_027_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_028](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_028_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_028](images/page_028_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_029](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_029_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_029](images/page_029_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_030](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_030_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_030](images/page_030_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
-![page_031](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_031_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
+![page_031](images/page_031_5._KAMDA_25_Conference_Deck_-_Jay_Han_Deck_25-10-23.jpg)
 
 **요약**
 > 가장 중요한 성공 요인은 Early Stage Planning입니다. Commercialization부터 역순으로 생각하면서 제품을 만드는 게 베스트입니다. 로드맵을 잡는 게 아주 중요합니다.
@@ -1479,7 +1479,7 @@ FD 에어플로그의 반은 아니지만 굉장히 크다. 이것만 준비를 
 ### Slides
 
 #### Slide 1
-![page_001](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_001_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_001](images/page_001_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > 이 협회 만드신 거 축하드립니다. 한국 회사들에게 목소리가 필요하다고 생각했는데 이렇게 만들어져서 다행입니다.
@@ -1492,7 +1492,7 @@ FD 에어플로그의 반은 아니지만 굉장히 크다. 이것만 준비를 
 </details>
 
 #### Slide 2
-![page_002](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_002_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_002](images/page_002_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > 저는 하는 일을 플러머 또는 페인터라고 합니다. 플러머는 FDA 관련 문제를 고치고, 페인터는 투자자들에게 FDA 리스크를 설명합니다.
@@ -1519,7 +1519,7 @@ Average deal size도 작년에 20.4밀리언에서 28.1밀리언정도 올랐고
 </details>
 
 #### Slide 3
-![page_003](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_003_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_003](images/page_003_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > WHOOP 기기의 Blood Pressure 기능이 논란이 됐습니다. FDA는 혈압을 나타내는 것 자체가 "inherently diagnostic"이라고 주장합니다. CEO가 공개적으로 FDA와 싸우겠다고 했지만, 이건 싸우기 좋은 사례가 아닙니다.
@@ -1552,7 +1552,7 @@ FTA에 사는 말은, 지금 여기 우흡기기 있죠? 우흡기기 5월달에
 </details>
 
 #### Slide 4
-![page_004](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_004_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_004](images/page_004_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > Clinical Decision Support 소프트웨어는 의료기기 효능 표기를 하면서도 규제를 받지 않을 수 있는 카테고리입니다.
@@ -1565,7 +1565,7 @@ FTA에 사는 말은, 지금 여기 우흡기기 있죠? 우흡기기 5월달에
 </details>
 
 #### Slide 5
-![page_005](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_005_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_005](images/page_005_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > CDS 면제를 위한 4가지 기준이 있지만, FDA가 자동화와 급박한 상황에 대한 추가 제한을 두었습니다. 법령에는 이런 제한이 없는데 FDA가 자체적으로 해석한 겁니다.
@@ -1588,7 +1588,7 @@ FTA에 사는 말은, 지금 여기 우흡기기 있죠? 우흡기기 5월달에
 </details>
 
 #### Slide 6
-![page_006](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_006_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_006](images/page_006_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > 제품 개발 시 어느 정도 리스크 감수는 필요하지만, 정말 건드려서는 안 되는 것이 뭔지 알아야 합니다. FDA 규제를 받을 필요가 있는지도 고려해보세요.
@@ -1609,7 +1609,7 @@ FTA에 사는 말은, 지금 여기 우흡기기 있죠? 우흡기기 5월달에
 </details>
 
 #### Slide 7
-![page_007](Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U%20/page_007_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
+![page_007](images/page_007_6._KAMDA_Sung_Park_Reed_Smith_LLP.jpg)
 
 **요약**
 > 한국에도 좋은 제품을 가진 회사들이 많은데, 컨퍼런스 등에 많이 나가셔서 제품을 홍보하시면 더 넓은 기회와 시장이 열릴 것입니다.
