@@ -4,6 +4,8 @@
 
 Reed Smith LLP, New York
 
+![KAMDA Conference 2025 Program](2025-KAMDA-PROGRAM_ENG_PNG-V2.png)
+
 ---
 
 ## Schedule
