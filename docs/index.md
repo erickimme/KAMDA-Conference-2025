@@ -43,7 +43,7 @@ Location: Reed Smith LLP, New York
 
 Connect and network with speakers and attendees virtually, even after the conference is over.
 
-[Click here →](https://www.milgram.io/community/kamdakoreanamericanmedicaldevicesassociation)
+[Event Page →](https://www.milgram.io/community/kamdakoreanamericanmedicaldevicesassociation/events)
 
 
 ### Want to become a member of KAMDA?
