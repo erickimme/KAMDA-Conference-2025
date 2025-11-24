@@ -1,4 +1,4 @@
-# KAMDA Conference 2025 - OCT 23
+## October 23, 2025
 
 **Korean-American Medical Device Association Annual Conference**
 
