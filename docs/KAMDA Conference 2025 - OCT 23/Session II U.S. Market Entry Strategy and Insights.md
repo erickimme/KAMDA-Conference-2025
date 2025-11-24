@@ -1,4 +1,4 @@
-[← Back to Schedule](../../docs/index)
+[← Back to Schedule](../index)
 
 # Session II: U.S. Market Entry Strategy and Insights
 
@@ -58,7 +58,7 @@
 
 ### Slide 1
 
-![Slide 1](KAMDA%20Conference%202025%20-%20OCT%2023/page_001_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 1](Session%20II%20images/page_001_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 발표자 소개: 태웅 메디컬 USA의 민수 서 대표. 미국에서 13년 거주하며 GI 스텐트 제조회사를 이끌고 있으며, 250개 병원과 대학에 제품 납품 중.
@@ -75,7 +75,7 @@
 
 ### Slide 2
 
-![Slide 2](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.55.06.png)
+![Slide 2](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.55.06.png)
 
 **요약**
 > 미국 헬스케어 시장 개요: 세계에서 가장 복잡한 보험 구조. 이해하고 접근하는 것이 가장 중요.
@@ -90,7 +90,7 @@
 
 ### Slide 3
 
-![Slide 3](KAMDA%20Conference%202025%20-%20OCT%2023/page_003_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 3](Session%20II%20images/page_003_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 리인버스먼트의 필수 컴포넌트들 소개. 메디컬 디바이스 회사가 반드시 알아야 할 핵심 요소들과 디지털 헬스 트렌드.
@@ -105,7 +105,7 @@
 
 ### Slide 4
 
-![Slide 4](KAMDA%20Conference%202025%20-%20OCT%2023/page_004_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 4](Session%20II%20images/page_004_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 미국 헬스케어 지출 현황: GDP의 17%, 1인당 연간 약 $14,000 지출. 아웃페이션트와 미니멀리 인베이시브 시술 증가 추세.
@@ -120,7 +120,7 @@
 
 ### Slide 5
 
-![Slide 5](KAMDA%20Conference%202025%20-%20OCT%2023/page_005_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 5](Session%20II%20images/page_005_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 미국 보험 시스템 구조: 정부 운영 보험(Government-run Insurance)과 민간 헬스케어로 구분. 정부 보험이 기준점이 되므로 이해가 중요.
@@ -135,7 +135,7 @@
 
 ### Slide 6
 
-![Slide 6](KAMDA%20Conference%202025%20-%20OCT%2023/page_006_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 6](Session%20II%20images/page_006_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 헬스케어 시스템의 키 플레이어: 프로바이더(병원), 컨슈머(환자), 페이어(보험사), 벤더(의료기기 회사). 각각의 역할과 관계 이해가 중요.
@@ -150,7 +150,7 @@
 
 ### Slide 7
 
-![Slide 7](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.04.png)
+![Slide 7](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.04.png)
 
 **요약**
 > 리인버스먼트의 3가지 핵심 요소: 커버리지(보장성), 코딩(청구코드), 페이먼트(보상금액). 세 요소가 모두 연결되어 있어 각각의 이해 필요.
@@ -165,7 +165,7 @@
 
 ### Slide 8
 
-![Slide 8](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.12.png)
+![Slide 8](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.12.png)
 
 **요약**
 > 커버리지(보장성): CMS에서 의료적 필요성 판단. FDA 승인만으로는 보험 적용 보장 안됨. 비보험 제품도 FDA 승인 후 환자에게 사용 가능하며 다른 방식으로 이익 창출 가능.
@@ -180,7 +180,7 @@
 
 ### Slide 9
 
-![Slide 9](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.20.png)
+![Slide 9](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.20.png)
 
 **요약**
 > CMS와 FDA의 관점 차이: FDA는 안전성/유효성, CMS는 환자 도움과 비용효과성을 중점 검토. FDA 승인만으로 커버리지 보장 안됨.
@@ -195,9 +195,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 10-11
 
-![Slide 10](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.31.png)
+![Slide 10](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.31.png)
 
-![Slide 11](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.38.png)
+![Slide 11](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.38.png)
 
 **요약**
 > 의료기기의 포괄적 보상 구조: 시술에 대한 보상이지 제품 자체에 대한 보상이 아님. 제품 가격이 너무 비싸면 사용되지 않을 수 있음. 커버리지와 페이먼트 금액 모두 이해 필요.
@@ -212,9 +212,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 12-13
 
-![Slide 12](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.47.png)
+![Slide 12](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.47.png)
 
-![Slide 13](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.55.png)
+![Slide 13](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.56.55.png)
 
 **요약**
 > 코딩 시스템: CPT(시술코드), HCPCS(제품코드), ICD(질병코드). AMA와 CMS가 코드 관리. 새 코드 개발에 1-5년 소요. 코드가 있어도 커버가 안 될 수 있음.
@@ -229,7 +229,7 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 14
 
-![Slide 14](KAMDA%20Conference%202025%20-%20OCT%2023/page_014_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 14](Session%20II%20images/page_014_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 새로운 코드 필요 여부 판단: 기존 코드 사용 vs 새 코드 개발(1-5년 소요). 코드 없는 제품은 가격 컨트롤이 가능해 오히려 장점이 될 수 있음. 태웅은 30%가 코드 없는 제품.
@@ -244,9 +244,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 15-16
 
-![Slide 15](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.04.png)
+![Slide 15](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.04.png)
 
-![Slide 16](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.13.png)
+![Slide 16](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.57.13.png)
 
 **요약**
 > 페이먼트 구조 4가지: 인페이션트(통합지불), 아웃페이션트/ASC(더 낮지만 수익성), 피지션 오피스(의사 직접 수령). 같은 CPT 코드도 환경에 따라 보상액 차이. 어디서 사용하는 게 가장 높은지 찾아야 함.
@@ -261,7 +261,7 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 17
 
-![Slide 17](KAMDA%20Conference%202025%20-%20OCT%2023/page_018_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 17](Session%20II%20images/page_018_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 실제 전략 사례: 리인버스먼트가 안 되는 제품도 인페이션트에 포지셔닝해 병원 수익 증대에 기여. 제품으로는 손해지만 환자 유입으로 전체 수익 상승하는 구조.
@@ -276,9 +276,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 18-19
 
-![Slide 18](KAMDA%20Conference%202025%20-%20OCT%2023/page_019_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 18](Session%20II%20images/page_019_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
-![Slide 19](KAMDA%20Conference%202025%20-%20OCT%2023/page_020_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 19](Session%20II%20images/page_020_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 랩 테스트와 피지션 오피스의 이중 수익 구조: 병원 소속이면서 자기 오피스가 있는 의사는 두 가지를 동시에 받을 수 있음. 의사에게 직접 들어오는 수익이므로 사용 확률 높아짐.
@@ -293,7 +293,7 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 20
 
-![Slide 20](KAMDA%20Conference%202025%20-%20OCT%2023/page_021_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 20](Session%20II%20images/page_021_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 신기술 지원 프로그램: NTAP(인페이션트 추가지불), Pass-through Payment(아웃페이션트 추가지불). FDA 허가와 동시에 진행 가능. 가격 선정을 인더스트리 내에서 주도 가능.
@@ -308,9 +308,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 21-22
 
-![Slide 21](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.11.46.png)
+![Slide 21](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.11.46.png)
 
-![Slide 22](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.11.53.png)
+![Slide 22](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.11.53.png)
 
 **요약**
 > 리인버스먼트 거부 대응: 핫라인 운영으로 디나인(거부) 시 어필 지원. 어떻게 성공했는지, 어떤 에비던스가 필요한지 가이드 제공.
@@ -325,9 +325,9 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 23-24
 
-![Slide 23](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.12.14.png)
+![Slide 23](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.12.14.png)
 
-![Slide 24](KAMDA%20Conference%202025%20-%20OCT%2023/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.12.30.png)
+![Slide 24](Session%20II%20images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-10-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.12.30.png)
 
 **요약**
 > 비보험(캐시페이) 전략 사례: 리인버스먼트 $1,100인데 제품가가 $2,700인 경우, 코드 사용 안하고 아웃페이션트 센터에서 환자에게 $7,000 캐시페이 청구. 3년 후 CPT 코드 획득으로 수익 2배 증가.
@@ -342,7 +342,7 @@ CMS라는거는 인허가을 내기도 하지만 굉장히 보는 관점이 틀�
 
 ### Slide 25
 
-![Slide 25](KAMDA%20Conference%202025%20-%20OCT%2023/page_026_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
+![Slide 25](Session%20II%20images/page_026_7._Understanding_the_U.S._Healthcare_Insurance_System_(Minsoo_Seo).jpg)
 
 **요약**
 > 핵심 메시지: 코드 유무와 관계없이 비즈니스 기회 존재. 비보험(Non-reimbursement) 전략도 중요하게 고려. 캐시페이 모델로 시장 진입 후 CPT 코드 획득 가능.
@@ -371,7 +371,7 @@ Non-reimbursement 이런 것들도 꼭 고려해보시면 좋겠습니다. 고�
 
 ### Slide 1
 
-![Slide 1](KAMDA%20Conference%202025%20-%20OCT%2023/page_001_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 1](Session%20II%20images/page_001_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > LDT(Laboratory Developed Test)에 대한 전문가 부재 문제 제기. CLIA 랩 운영 경험을 바탕으로 실제 준비사항과 용어 설명.
@@ -390,7 +390,7 @@ Non-reimbursement 이런 것들도 꼭 고려해보시면 좋겠습니다. 고�
 
 ### Slide 2
 
-![Slide 2](KAMDA%20Conference%202025%20-%20OCT%2023/page_002_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 2](Session%20II%20images/page_002_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > LDT의 정의: CLIA 랩이 직접 개발하고 검증하는 제품. 단순한 RUO가 아니라 자체 레귤레이션을 가진 제품. FDA 대기시간 없이 빠른 진입 가능.
@@ -415,7 +415,7 @@ Non-reimbursement 이런 것들도 꼭 고려해보시면 좋겠습니다. 고�
 
 ### Slide 3
 
-![Slide 3](KAMDA%20Conference%202025%20-%20OCT%2023/page_003_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 3](Session%20II%20images/page_003_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > CLIA 랩의 정의와 등급: 1988년 임상검사 개선법에 따른 인증. 미국 내 30만개+ 중 High Complexity(NGS, 유전자검사)는 약 6천개.
@@ -438,7 +438,7 @@ Non-reimbursement 이런 것들도 꼭 고려해보시면 좋겠습니다. 고�
 
 ### Slide 4
 
-![Slide 4](KAMDA%20Conference%202025%20-%20OCT%2023/page_004_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 4](Session%20II%20images/page_004_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > 미국 랩 비즈니스 전략: 지역적 시너지(메릴랜드, 뉴저지, 캘리포니아, 콜로라도), 커머셜 시너지(각 랩별 특화검사), 오퍼레이션 시너지.
@@ -459,7 +459,7 @@ Non-reimbursement 이런 것들도 꼭 고려해보시면 좋겠습니다. 고�
 
 ### Slide 5
 
-![Slide 5](KAMDA%20Conference%202025%20-%20OCT%2023/page_005_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 5](Session%20II%20images/page_005_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > CMS, CPT 코드 용어 설명: CMS는 메디케어/메디케이드 관련 행정기관이자 가이드라인 수립. CPT는 의료행위 코드화 시스템(5자리 코드).
@@ -486,7 +486,7 @@ CPTT 어퀴드의 기준을 검사한다고 말씀드렸는데요.
 
 ### Slide 6
 
-![Slide 6](KAMDA%20Conference%202025%20-%20OCT%2023/page_006_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 6](Session%20II%20images/page_006_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > 주(州)별 허가 전략: 뉴욕주는 별도 허가 필수(FDA와 유사), 캘리포니아는 리스팅만, 텍사스는 허가 불필요. 타겟 랩 위치에 따라 전략 수립.
@@ -529,7 +529,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 7
 
-![Slide 7](KAMDA%20Conference%202025%20-%20OCT%2023/page_007_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 7](Session%20II%20images/page_007_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > MolDX 프로그램: 분자진단 검사의 Z코드 발급 시스템. MAC(Medicare Administrative Contractor) 기관별로 주가 다름. Palmetto, Noridian, WPS 등.
@@ -544,7 +544,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 8
 
-![Slide 8](KAMDA%20Conference%202025%20-%20OCT%2023/page_008_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 8](Session%20II%20images/page_008_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > Z코드 등록 절차: 검사 등록, 임상적 유효 자료 제출, 커버리지 심사. CPT 코드가 있어도 실제 리인버스먼트가 안 되는 경우 많음.
@@ -563,7 +563,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 9
 
-![Slide 9](KAMDA%20Conference%202025%20-%20OCT%2023/page_009_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 9](Session%20II%20images/page_009_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > LDT 전략 4가지 핵심: 1) 주 허가 전략 수립, 2) CPT 코드와 실제 리인버스먼트 확인, 3) 적절한 가격 전략(LDT는 임시 단계), 4) 규제 준수 파트너십 구조 설계.
@@ -592,7 +592,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 10
 
-![Slide 10](KAMDA%20Conference%202025%20-%20OCT%2023/page_010_8._25KAMDA_Dr._Jake_Cho.jpg)
+![Slide 10](Session%20II%20images/page_010_8._25KAMDA_Dr._Jake_Cho.jpg)
 
 **요약**
 > KAMDA의 역할 강조: 함께하면 보다 빨리, 보다 멀리. 다양한 제품과 회사가 뭉쳐서 전략을 수립하고 협상력을 높일 수 있음.
@@ -621,7 +621,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 1
 
-![Slide 1](KAMDA%20Conference%202025%20-%20OCT%2023/page_001_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 1](Session%20II%20images/page_001_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 발표자 소개: Immunostics의 Curie Choi. 한국 본사(바디텍메드)가 미국 현지 회사를 인수한 사례를 공유.
@@ -636,7 +636,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 2
 
-![Slide 2](KAMDA%20Conference%202025%20-%20OCT%2023/page_002_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 2](Session%20II%20images/page_002_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > Immunostics 회사 소개: 1970년 설립된 50년+ 역사의 회사. GSK(스미스클라인) 출신 연구자들이 대변잠혈(FOB) 검사 개발.
@@ -651,7 +651,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 3
 
-![Slide 3](KAMDA%20Conference%202025%20-%20OCT%2023/page_003_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 3](Session%20II%20images/page_003_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 메인 제품: 대장암 검사(FOB - Fecal Occult Blood), 감염병 검사, 헤모글로빈 미터. 미국에 생산시설 보유.
@@ -668,7 +668,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 4
 
-![Slide 4](KAMDA%20Conference%202025%20-%20OCT%2023/page_004_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 4](Session%20II%20images/page_004_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 회사 성장 과정: 1990년대 영국, 스페인, 캐나다 등 국가 스크리닝 프로그램 입찰 성공. 이후 바디텍메드가 인수.
@@ -685,7 +685,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 5
 
-![Slide 5](KAMDA%20Conference%202025%20-%20OCT%2023/page_005_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 5](Session%20II%20images/page_005_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 현재 비즈니스: 맥캐슨, 헨리샤인, NDC 등 미국 주요 유통사와 프라이빗 라벨링. 멕시코/남미 텐더도 진행.
@@ -702,7 +702,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 6
 
-![Slide 6](KAMDA%20Conference%202025%20-%20OCT%2023/page_006_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 6](Session%20II%20images/page_006_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 바디텍메드 소개: 28-29년 역사, POC(현장진단) 장비 전문. 140개국 판매. 주요 제품: HbA1C, Vitamin D, TSH, CRP 등.
@@ -721,7 +721,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 7
 
-![Slide 7](KAMDA%20Conference%202025%20-%20OCT%2023/page_007_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 7](Session%20II%20images/page_007_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 인수의 장점: 1) 시간 절약(Time is money), 2) 신용 확보(Credit is everything), 3) Unknown에서 Known으로 전환. 유통사 관계 바로 활용 가능.
@@ -740,7 +740,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 8
 
-![Slide 8](KAMDA%20Conference%202025%20-%20OCT%2023/page_008_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 8](Session%20II%20images/page_008_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 인수 시 고려사항 3가지: 1) 세일즈 채널, 2) 생산설비, 3) 커스터머 네트워크. 각각에 대한 시너지 검토 필요.
@@ -757,7 +757,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 9
 
-![Slide 9](KAMDA%20Conference%202025%20-%20OCT%2023/page_009_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 9](Session%20II%20images/page_009_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 세일즈 채널 시너지: 래피드 테스트와 POC 디바이스는 같은 유통사라도 다른 팀/담당자. 판매 마켓이 동일해야 최대 시너지.
@@ -776,7 +776,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 10
 
-![Slide 10](KAMDA%20Conference%202025%20-%20OCT%2023/page_010_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 10](Session%20II%20images/page_010_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 생산설비 시너지: 래피드 생산라인과 POC 디바이스 생산라인은 완전히 다름. 설비 호환성, 오퍼레이터/메인터넌스 인력 확보 방안 고려 필요.
@@ -795,7 +795,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 11
 
-![Slide 11](KAMDA%20Conference%202025%20-%20OCT%2023/page_011_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 11](Session%20II%20images/page_011_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 미국 규제 준수: FDA뿐 아니라 OSHA 등 안전/시설 규정도 고려 필요. 창고 공간, 포크리프트 규정 등 미국 특유의 규정들.
@@ -812,7 +812,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 12
 
-![Slide 12](KAMDA%20Conference%202025%20-%20OCT%2023/page_012_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 12](Session%20II%20images/page_012_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 커스터머 네트워크의 가치: 신규 진입 시 2-3년 걸리는 것을 인수로 단축. 100여개 고객 네트워크가 가장 큰 밸류.
@@ -829,7 +829,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 13
 
-![Slide 13](KAMDA%20Conference%202025%20-%20OCT%2023/page_013_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 13](Session%20II%20images/page_013_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > 요약: 1) 판매 마켓 시너지 확인, 2) 생산설비 시너지 검토, 3) 미국 규제 준수 리뷰 필요.
@@ -844,7 +844,7 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 14
 
-![Slide 14](KAMDA%20Conference%202025%20-%20OCT%2023/page_014_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
+![Slide 14](Session%20II%20images/page_014_9._Market_Entry_Strategy_for_the_U.S.__Curie_Choi.jpg)
 
 **요약**
 > KAMDA를 통한 협력 제안: 인수 없이도 한국 기업들 간 시너지 가능. Immunostics와 콜라보 원하는 회사 환영.
@@ -875,13 +875,13 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 1-4
 
-![Slide 1](KAMDA%20Conference%202025%20-%20OCT%2023/page_001_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 1](Session%20II%20images/page_001_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 2](KAMDA%20Conference%202025%20-%20OCT%2023/page_002_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 2](Session%20II%20images/page_002_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 3](KAMDA%20Conference%202025%20-%20OCT%2023/page_003_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 3](Session%20II%20images/page_003_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 4](KAMDA%20Conference%202025%20-%20OCT%2023/page_004_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 4](Session%20II%20images/page_004_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 발표자 소개: 워싱턴 DC 오피스에서 IP/특허 담당. AI, ML 관련 소프트웨어와 메디컬 디바이스 전문. Alex Harrison은 기계기구 관련 특허 담당.
@@ -896,9 +896,9 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 5-6
 
-![Slide 5](KAMDA%20Conference%202025%20-%20OCT%2023/page_005_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 5](Session%20II%20images/page_005_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 6](KAMDA%20Conference%202025%20-%20OCT%2023/page_006_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 6](Session%20II%20images/page_006_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 기술 보호 전략 3가지: 클리어런스(사전조사), 프로텍션(특허/영업비밀), 라이선싱. 각각의 장단점과 주의사항.
@@ -913,9 +913,9 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 7-8
 
-![Slide 7](KAMDA%20Conference%202025%20-%20OCT%2023/page_007_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 7](Session%20II%20images/page_007_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 8](KAMDA%20Conference%202025%20-%20OCT%2023/page_008_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 8](Session%20II%20images/page_008_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 클리어런스(사전조사) 주의사항: 미국에서는 특허 출원 전 알고 있는 모든 정보를 제출해야 함. 너무 철저한 조사는 소송 시 불리하게 작용. 미국 변호사와 진행하면 Attorney Privilege로 보호.
@@ -932,9 +932,9 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 9-10
 
-![Slide 9](KAMDA%20Conference%202025%20-%20OCT%2023/page_009_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 9](Session%20II%20images/page_009_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 10](KAMDA%20Conference%202025%20-%20OCT%2023/page_010_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 10](Session%20II%20images/page_010_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 트레이드 시크릿(영업비밀) 보호: 코카콜라 사례. 필수 요건 - 모든 중요 정보에 "Confidential" 마크, 직원 교육, 퇴사자 관리, 지속적 관리 증빙.
@@ -951,13 +951,13 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 11-14
 
-![Slide 11](KAMDA%20Conference%202025%20-%20OCT%2023/page_011_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 11](Session%20II%20images/page_011_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 12](KAMDA%20Conference%202025%20-%20OCT%2023/page_012_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 12](Session%20II%20images/page_012_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 13](KAMDA%20Conference%202025%20-%20OCT%2023/page_013_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 13](Session%20II%20images/page_013_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 14](KAMDA%20Conference%202025%20-%20OCT%2023/page_014_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 14](Session%20II%20images/page_014_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 특허 기본: Specification(명세서), Drawings(도면), Claims(청구항)으로 구성. 한국 출원 후 1년 내 미국 출원 시 한국 출원일 소급 가능. 단, Specification과 Drawings는 변경 불가.
@@ -976,9 +976,9 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 15-16
 
-![Slide 15](KAMDA%20Conference%202025%20-%20OCT%2023/page_015_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 15](Session%20II%20images/page_015_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 16](KAMDA%20Conference%202025%20-%20OCT%2023/page_016_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 16](Session%20II%20images/page_016_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 미국 특허의 발명자 권리: 한국은 직원 발명이 자동으로 회사 소유. 미국은 발명자가 회사에 명시적으로 양도해야 함. Assignment Document 반드시 확보 필요.
@@ -995,11 +995,11 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 17-19
 
-![Slide 17](KAMDA%20Conference%202025%20-%20OCT%2023/page_017_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 17](Session%20II%20images/page_017_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 18](KAMDA%20Conference%202025%20-%20OCT%2023/page_018_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 18](Session%20II%20images/page_018_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 19](KAMDA%20Conference%202025%20-%20OCT%2023/page_019_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 19](Session%20II%20images/page_019_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > Patent Eligibility: 특허 가능 대상(Process, Machine, Manufacture, Composition) vs 불가 대상(Abstract Idea, Law of Nature, Natural Phenomenon). USPTO는 AI의 감지/분석/훈련/진단을 Abstract Idea로 거절.
@@ -1018,11 +1018,11 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 20-22
 
-![Slide 20](KAMDA%20Conference%202025%20-%20OCT%2023/page_020_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 20](Session%20II%20images/page_020_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 21](KAMDA%20Conference%202025%20-%20OCT%2023/page_021_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 21](Session%20II%20images/page_021_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 22](KAMDA%20Conference%202025%20-%20OCT%2023/page_022_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 22](Session%20II%20images/page_022_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > Alice Test와 Practical Application: Abstract Idea가 있어도 Practical Application이 있으면 통과. 컴포넌트의 구조/기능이 잘 설명되어 있으면 인정.
@@ -1039,13 +1039,13 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 23-26
 
-![Slide 23](KAMDA%20Conference%202025%20-%20OCT%2023/page_023_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 23](Session%20II%20images/page_023_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 24](KAMDA%20Conference%202025%20-%20OCT%2023/page_024_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 24](Session%20II%20images/page_024_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 25](KAMDA%20Conference%202025%20-%20OCT%2023/page_025_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 25](Session%20II%20images/page_025_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 26](KAMDA%20Conference%202025%20-%20OCT%2023/page_026_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 26](Session%20II%20images/page_026_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > AI/ML 발명 특허 전략: 1) AI가 "뭔가를 더" 해야 함(디바이스 컨트롤, 센서 데이터 제어 등), 2) Technical Improvement 필수(컴퓨터 속도 증가, 메모리 감소 - OK / 진단 오류 감소, UX 향상 - NOT OK).
@@ -1064,9 +1064,9 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 27-28
 
-![Slide 27](KAMDA%20Conference%202025%20-%20OCT%2023/page_027_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 27](Session%20II%20images/page_027_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 28](KAMDA%20Conference%202025%20-%20OCT%2023/page_028_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 28](Session%20II%20images/page_028_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > Physical Steps 포함: AI로 진단 후 Treatment 제공(구체적 치료법 명시 필수). Malicious network packet 감지 후 Dropping/Blocking 등 실제 행동 포함 시 통과.
@@ -1083,15 +1083,15 @@ FDA를 갖고 있으면 100% 이 리인버스먼트에 대해서 생각을 해�
 
 ### Slide 29-33
 
-![Slide 29](KAMDA%20Conference%202025%20-%20OCT%2023/page_029_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 29](Session%20II%20images/page_029_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 30](KAMDA%20Conference%202025%20-%20OCT%2023/page_030_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 30](Session%20II%20images/page_030_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 31](KAMDA%20Conference%202025%20-%20OCT%2023/page_031_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 31](Session%20II%20images/page_031_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 32](KAMDA%20Conference%202025%20-%20OCT%2023/page_032_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 32](Session%20II%20images/page_032_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
-![Slide 33](KAMDA%20Conference%202025%20-%20OCT%2023/page_033_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
+![Slide 33](Session%20II%20images/page_033_10._07777700_651143703v1_KAMDA_2025_October_Presentation_MLB.jpg)
 
 **요약**
 > 기타 주의사항: 1) 시스템 클레임이 메소드 클레임보다 유리, 2) 소규모 청중 대상 구두 발표도 공개로 간주, 3) 미국 출원 전 공개된 한국 특허는 미국 출원 공격에 사용 가능.

@@ -19,7 +19,7 @@ Location: Reed Smith LLP, New York
 | 12:00 ~ 01:00 PM    | **Lunch**                                                                                                                                                                                           |                                                                  |
 | 01:00 ~ 02:40 PM    | [**Session I: Strategies and FDA Considerations for U.S. Market Entry**](KAMDA%20Conference%202025%20-%20OCT%2023/Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U.S.%20Market%20Entry) | Haja Sittana El Mubarak, ByungSik Chang, JungYoup Han, Sung Park |
 | 02:40 ~ 02:50 PM    | **Coffee Break**                                                                                                                                                                                    |                                                                  |
-| 02:50 ~ 04:30 PM    | **Session II: U.S. Market Entry Strategy and Insights**                                                                                                                                             | MinSoo Seo, JungHee Cho, Curie Choi, Eunjean Je                  |
+| 02:50 ~ 04:30 PM    | [**Session II: U.S. Market Entry Strategy and Insights**](KAMDA%20Conference%202025%20-%20OCT%2023/Session%20II%20U.S.%20Market%20Entry%20Strategy%20and%20Insights)                                | MinSoo Seo, JungHee Cho, Curie Choi, Eunjean Je                  |
 | 04:30 ~ 05:15 PM    | **Sponsored Session**                                                                                                                                                                               |                                                                  |
 | 05:15 ~ 05:30 PM    | **Coffee Break**                                                                                                                                                                                    |                                                                  |
 | 05:30 ~ 06:30 PM    | **Panel Session: U.S. Market Entry and Medical Device Market Strategy**                                                                                                                             | Moderator: HeaYeon Lee                                           |
@@ -35,6 +35,12 @@ Location: Reed Smith LLP, New York
   - ByungSik Chang - FDA Approval Strategies and Success Cases
   - JungYoup Han - FDA Preparation and Approval Strategy (CRO)
   - Sung Park - Appropriate Risk Allocation in the FDA World
+
+- [Session II: U.S. Market Entry Strategy and Insights](KAMDA%20Conference%202025%20-%20OCT%2023/Session%20II%20U.S.%20Market%20Entry%20Strategy%20and%20Insights)
+  - MinSoo Seo - Understanding the U.S. Healthcare Insurance System
+  - JungHee Cho - Market Entry Strategy for the U.S. (LDT and CLIA Lab)
+  - Curie Choi - Market Entry Strategy for the U.S. (U.S. Company Acquisitions)
+  - Eunjean Je - Understanding IP and Compliance
 
 *More sessions coming soon*
 
