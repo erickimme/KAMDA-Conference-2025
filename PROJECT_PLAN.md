@@ -32,7 +32,16 @@ KAMDA (Korean-American Medical Device Association) 컨퍼런스 발표 자료를
 - ✅ JungYoup Han (31 slides) - FDA Preparation and Approval Strategy (CRO)
 - ✅ Sung Park (7 slides) - Appropriate Risk Allocation in the FDA World
 
-### 2. GitHub Pages 배포
+### 2. Session II 슬라이드 구조 변환
+**완료된 발표자:**
+- ✅ MinSoo Seo (25 slides, 26 images) - Understanding the U.S. Healthcare Insurance System
+- ✅ JungHee Cho (10 slides) - Market Entry Strategy for the U.S. (LDT and CLIA Lab)
+- ✅ Curie Choi (14 slides) - Market Entry Strategy for the U.S. (U.S. Company Acquisitions)
+- ✅ Eunjean Je (33 slides) - Understanding IP and Compliance
+
+**총 98개 이미지** (83 slides + 15 screenshots)
+
+### 3. GitHub Pages 배포
 - Git LFS 설정 (PDF, HEIC, PPTX, ZIP, M4A)
 - docs 폴더의 이미지는 일반 파일로 저장 (GitHub Pages 호환)
 - 메인 페이지 생성 (docs/index.md)
@@ -92,10 +101,11 @@ KAMDA (Korean-American Medical Device Association) 컨퍼런스 발표 자료를
 ### 배포 완료
 - ✅ 메인 페이지 (스케줄, 프로그램 이미지)
 - ✅ Session I 상세 페이지 (4명 발표자, 65개 슬라이드)
+- ✅ Session II 상세 페이지 (4명 발표자, 82개 슬라이드)
+- ✅ README.md (Live Site 링크 포함)
 
 ### 미완료 세션
 - ⏸️ Opening Remarks (HeaYeon Lee, YoungHo Choi)
-- ⏸️ Session II: U.S. Market Entry Strategy and Insights
 - ⏸️ Sponsored Session
 - ⏸️ Panel Session
 
@@ -107,23 +117,15 @@ KAMDA (Korean-American Medical Device Association) 컨퍼런스 발표 자료를
 1. [ ] Opening Remarks 슬라이드 구조 변환
    - HeaYeon Lee (34 slides)
    - YoungHo Choi (21 slides)
-   - 주의: 현재 요약 quotes 없음 - 트랜스크립트에서 생성 필요
-
-2. [ ] Session II 슬라이드 구조 변환
-   - MinSoo Seo
-   - JungHee Cho
-   - Curie Choi
-   - Eunjean Je
+   - 주의: 요약 quotes 없음 - 트랜스크립트에서 생성 필요
 
 ### 우선순위 중간
-3. [ ] Sponsored Session 구조 변환
-4. [ ] Panel Session 구조 변환
-5. [ ] 각 세션 페이지에 네비게이션 추가
+2. [ ] Sponsored Session 구조 변환
+3. [ ] Panel Session 구조 변환
 
 ### 우선순위 낮음
-6. [ ] 메인 페이지 디자인 개선
-7. [ ] 모바일 최적화 확인
-8. [ ] 검색 기능 추가 (선택)
+4. [ ] 메인 페이지 디자인 개선
+5. [ ] 모바일 최적화 확인
 
 ---
 
@@ -155,6 +157,7 @@ docs/**/*.png !filter !diff !merge -text
 
 - **메인 페이지**: https://erickimme.github.io/KAMDA-Conference-2025/
 - **Session I**: https://erickimme.github.io/KAMDA-Conference-2025/KAMDA%20Conference%202025%20-%20OCT%2023/Session%20I%20Strategies%20and%20FDA%20Considerations%20for%20U.S.%20Market%20Entry
+- **Session II**: https://erickimme.github.io/KAMDA-Conference-2025/KAMDA%20Conference%202025%20-%20OCT%2023/Session%20II%20U.S.%20Market%20Entry%20Strategy%20and%20Insights
 - **GitHub Repo**: https://github.com/erickimme/KAMDA-Conference-2025
 - **KAMDA Website**: https://kamdausa.org/
 - **Event Page**: https://www.milgram.io/community/kamdakoreanamericanmedicaldevicesassociation/events
